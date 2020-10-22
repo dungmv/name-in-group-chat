@@ -1,0 +1,16 @@
+{
+  "name": "challenge-2",
+  "version": "1.0.0",
+  "description": "challenge 2",
+  "main": "index.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "start": "tsc && node build/index.js"
+  },
+  "author": "dungmv",
+  "license": "ISC"
+}
